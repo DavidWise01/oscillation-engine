@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-OSCILLATION_ENGINE",
+  "name": "OSCILLATION ENGINE ANSIBLE JUNCTION · OSC",
+  "universe": "TECHNĒ",
+  "moniker": "⟦OSCILLATION ENGINE ANSIBLE JUNCTION · OSC:oscillation-engine:c5d4b1⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "c5d4b1e96e6886ef6b1f7cc6efd9047b1e4fed38b60d88106b1a06895b607a6c",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
